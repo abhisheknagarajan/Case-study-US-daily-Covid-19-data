@@ -6,6 +6,9 @@ In this book, I have implemented Time Series Forecasting Problem based on the gi
 # Columns of Dataset
 
 DATE - Date of that particular day
+
 POSITIVE - Number of Positive Cases for that Day
+
 HOSPITALIZED - Number of Patients Hospitalized for that Day
+
 DEATH - Count of Deaths occured for that Day
